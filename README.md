@@ -23,10 +23,19 @@ As a web developer, my mission is to create meaningful digital experiences that 
 
 🌍 <b>Empowering Impact:</b> I aspire to build web solutions that empower individuals and businesses to thrive in the digital realm. My goal is to leave a positive mark on the world through my work.
 
+## 🛠️ Skills
+
+### Languages
+
+![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
 <h3>Let's Connect!</h3>
-
-
 
 If you're passionate about web development, open-source projects, or just want to geek out about the web, let's connect! Feel free to explore my repositories and join me on this exciting coding journey.
 
 📫 You can reach me at shaikhhsohail0193@gmail.com or find me on <a href="https://www.linkedin.com/in/scookiehail/">LinkedIn</a> and <a href="https://twitter.com/scookiehail">Twitter</a>. Let's create magic together! 🎉
+

@@ -1,4 +1,4 @@
-<h1>Welcome to My Web Development World! 🌐</h1>
+<h1>Hey there, I'm Shaikh Sohail 😄</h1>
 
 ![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)
@@ -32,6 +32,11 @@ As a web developer, my mission is to create meaningful digital experiences that 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+## Stats 
+![sohail019's Stats](https://github-readme-stats.vercel.app/api?username=sohail019&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+![sohail019's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohail019&theme=monokai&hide_border=true)
+![sohail019's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohail019&theme=monokai&show_icons=true&hide_border=true&layout=compact)
 
 <h3>Let's Connect!</h3>
 

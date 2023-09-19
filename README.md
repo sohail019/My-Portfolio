@@ -4,7 +4,7 @@
 
 
 <h3>About Me:</h3> 
-Hey there! 👋 I'm Shaikh Sohail, a passionate web developer with a background in Computer Science and Engineering. I believe in the magic of code and how it can transform ideas into beautiful, functional websites that leave a lasting impact on users.
+
 
 <h3>My Journey:</h3>
 From the first lines of HTML I wrote, I knew web development was my calling. As I dove deeper into the world of CSS and JavaScript, I discovered my love for crafting visually stunning and interactive interfaces. The endless possibilities of the web inspire me to push my boundaries and embrace new challenges.
